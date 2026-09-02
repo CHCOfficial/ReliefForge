@@ -6,7 +6,17 @@ ReliefForge is free and open source under GNU GPLv3. No subscriptions, locked ex
 
 ## See it in action
 
-https://github.com/CHCOfficial/ReliefForge/blob/main/docs/screenshots/01-relief-workspace.jpg
+<img width="1359" height="768" alt="10-example-library" src="https://github.com/user-attachments/assets/22ff5ca3-79b0-4d5c-9d69-63c6d75e8775" />
+<img width="1359" height="768" alt="09-about-credits" src="https://github.com/user-attachments/assets/81302037-a2f0-4987-859f-e36ea72ad60b" />
+<img width="1359" height="768" alt="08-resin-material" src="https://github.com/user-attachments/assets/1b105f17-b819-4db6-b42b-c1532bb4198c" />
+<img width="1359" height="768" alt="07-height-curve-bronze" src="https://github.com/user-attachments/assets/0d4a7869-e7cf-4d3e-ab2f-c12b6100238b" />
+<img width="1359" height="768" alt="06-print-export-options" src="https://github.com/user-attachments/assets/019684d6-7047-4213-96cf-406a46eef751" />
+<img width="1359" height="768" alt="05-rough-preview" src="https://github.com/user-attachments/assets/12e5a965-9665-4e00-9463-194577fd025e" />
+<img width="1359" height="768" alt="04-smooth-preview" src="https://github.com/user-attachments/assets/2b85f4c7-ca83-44ae-b883-578c69b9c57f" />
+<img width="1359" height="768" alt="03-topographic-export" src="https://github.com/user-attachments/assets/46e69e52-21bc-49cd-ab40-8031060c1c4b" />
+<img width="1359" height="768" alt="02-creator-support-toast" src="https://github.com/user-attachments/assets/6895285f-74a4-4cda-8ed2-5f7e117b4f57" />
+<img width="1359" height="768" alt="01-relief-workspace" src="https://github.com/user-attachments/assets/3ec63294-23e1-49a7-9450-b038fd45f481" />
+
 
 ## Start creating immediately
 
