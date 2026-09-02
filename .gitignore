@@ -1,0 +1,16 @@
+/build*/
+/work/
+/outputs/
+__pycache__/
+*.pyc
+.env
+.env.*
+*.p12
+*.pfx
+*.key
+*.stl
+*.step
+*.stp
+*.dxf
+*.reliefstudio
+.DS_Store
