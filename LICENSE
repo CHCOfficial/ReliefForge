@@ -1,0 +1,30 @@
+ReliefForge 1.0.0
+Copyright (c) 2026 CHCOfficial
+SPDX-License-Identifier: GPL-3.0-only
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, version 3 of the License.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+The complete, unmodified licence text accompanies this program in COPYING.
+If it is missing, see https://www.gnu.org/licenses/gpl-3.0.html.
+
+Third-party components retain their own copyright notices, licences and
+exceptions. See THIRD_PARTY_NOTICES.md and licenses/third-party/.
+CORRESPONDING_SOURCE.md explains the source archives supplied with binaries.
+
+Licensing changed for version 1.0.0 on 31 August 2026 with the creator's
+approval. Previously granted rights to earlier MIT-licensed ReliefForge
+source are not revoked; the historical notice is in licenses/MIT-legacy.txt.
+That historical MIT notice does not describe the bundled Qt desktop binary.
+
+Creator links (informational, not additional licence conditions):
+Support: https://buymeacoffee.com/CHCOfficial
+Code: https://github.com/CHCOfficialGraphics
+Graphics: https://www.deviantart.com/chcofficialAudio
+Audio: https://suno.com/@artfulexpchc
