@@ -1,0 +1,74 @@
+[
+  {
+    "id": "horizontal-gradient",
+    "name": "Horizontal Ramp",
+    "level": "Simple",
+    "description": "Learn how brightness becomes height."
+  },
+  {
+    "id": "radial-dome",
+    "name": "Radial Dome",
+    "level": "Simple",
+    "description": "A rounded peak for trying height curves."
+  },
+  {
+    "id": "terraced-steps",
+    "name": "Terraced Steps",
+    "level": "Simple",
+    "description": "Compare sharp steps with smooth printing."
+  },
+  {
+    "id": "geometric-logo",
+    "name": "Geometric Cross",
+    "level": "Simple",
+    "description": "Bold edges for emboss and deboss."
+  },
+  {
+    "id": "topographic-waves",
+    "name": "Topographic Waves",
+    "level": "Patterns",
+    "description": "The startup example. Try Contour Relief."
+  },
+  {
+    "id": "ripple-rings",
+    "name": "Ripple Rings",
+    "level": "Patterns",
+    "description": "Concentric ripples with soft highlights."
+  },
+  {
+    "id": "soft-pillows",
+    "name": "Soft Pillows",
+    "level": "Patterns",
+    "description": "A grid of gently inflated cushions."
+  },
+  {
+    "id": "sculpted-dunes",
+    "name": "Sculpted Dunes",
+    "level": "Patterns",
+    "description": "Flowing sand-like ridges and valleys."
+  },
+  {
+    "id": "spiral-bloom",
+    "name": "Spiral Bloom",
+    "level": "Intricate",
+    "description": "Six curling petals in a sculpted rosette."
+  },
+  {
+    "id": "woven-ribbons",
+    "name": "Woven Ribbons",
+    "level": "Intricate",
+    "description": "Interlaced waves for exploring finishes."
+  },
+  {
+    "id": "ridged-terrain",
+    "name": "Ridged Terrain",
+    "level": "Intricate",
+    "description": "Layered mountain-like ridges and peaks."
+  },
+  {
+    "id": "organic-cells",
+    "name": "Organic Cells",
+    "level": "Intricate",
+    "description": "A field of softly rounded cellular peaks."
+  }
+]
