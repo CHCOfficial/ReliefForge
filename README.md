@@ -6,7 +6,7 @@ ReliefForge is free and open source under GNU GPLv3. No subscriptions, locked ex
 
 ## See it in action
 
-
+https://github.com/CHCOfficial/ReliefForge/blob/main/docs/screenshots/01-relief-workspace.jpg
 
 ## Start creating immediately
 
