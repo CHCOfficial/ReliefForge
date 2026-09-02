@@ -6,25 +6,7 @@ ReliefForge is free and open source under GNU GPLv3. No subscriptions, locked ex
 
 ## See it in action
 
-![Standard relief workspace](screenshots/01-relief-workspace.jpg)
 
-![Accurate High Relief height curve and bronze material](screenshots/07-height-curve-bronze.jpg)
-
-![Glossy resin finish on the same relief](screenshots/08-resin-material.jpg)
-
-![Free-app creator support toast](screenshots/02-creator-support-toast.jpg)
-
-![Contour relief and fabrication export menu](screenshots/03-topographic-export.jpg)
-
-![High-resolution smooth contour print preview](screenshots/04-smooth-preview.jpg)
-
-![The same relief with original geometry selected](screenshots/05-rough-preview.jpg)
-
-![Separate smooth high-resolution and original-geometry STL exports](screenshots/06-print-export-options.jpg)
-
-![Version 1 licence and creator credits](screenshots/09-about-credits.jpg)
-
-![Twelve built-in examples from simple shapes to intricate surfaces](screenshots/10-example-library.jpg)
 
 ## Start creating immediately
 
